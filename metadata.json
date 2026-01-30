@@ -1,0 +1,5 @@
+{
+  "name": "LogiAudit AI",
+  "description": "Automated logistics audit system comparing physical goods against documentation using Gemini AI.",
+  "requestFramePermissions": []
+}
